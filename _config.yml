@@ -7,13 +7,13 @@ title: Mr.Wの象牙山
 subtitle: learn more,happier more?
 description: For Love
 author: Mr.W
-# keywords: [前端博客,JavaScript,html5,css3,Jquery,NodeJs,Vue]
-language: en
-timezone: Asia/Shanghai
+keywords: [前端博客,JavaScript,html5,css3,Jquery,NodeJs,Vue]
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://tryagin.cn
+url: http://www.tryagin.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -78,7 +78,9 @@ theme: melody
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repository: git@github.com:wudiansi/wudiansi.github.io.git
+  type: git
+  repo: ssh://git@github.com/wudiansi/wudiansi.github.io
   branch: master
-
+# - type: git
+#   repo: root@tryagin.cn:/data/GitLibrary/hexo  //用户名@域名或 IP 地址:/data/GitLibrary/hexo
+#   branch: master
