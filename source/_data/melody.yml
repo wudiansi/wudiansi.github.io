@@ -165,13 +165,13 @@ addThis:
 # Comments System
 # ---------------
 disqus:
-  enable: true
+  enable: false
   shortname: wudiansi
   count: true
 
-# laibili:
-  # enable: false
-  # uid:
+laibili:
+  enable: true
+  uid: MTAyMC8zNTY2Mi8xMjE5OA==
 
 # gitment
   # enable: false
