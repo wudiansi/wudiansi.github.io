@@ -42,7 +42,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -87,7 +87,7 @@ theme: melody
 deploy:
 - type: git
   repo: 
-    github: https://github.com/wudiansi/wudiansi.github.io.git
+    github: git@github.com:wudiansi/wudiansi.github.io.git
     coding: git@git.coding.net:wds_pr/hexo.git
   branch: master
 - type: baidu_url_submitter  
