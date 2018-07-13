@@ -29,11 +29,11 @@ categories:
 ### 起初的一切都是那么的完美
 
 可以看见更多的支持的是国外使用率较高的、或者是存在的（此处404）登录方式。实在是可惜。
-![未登录界面](0.png)
+![未登录界面](http://p7jj1bbaq.bkt.clouddn.com/0.png)
 
-![登录后无评论界面](1.png)
+![登录后无评论界面](http://p7jj1bbaq.bkt.clouddn.com/1.png)
 
-![登录后有评论界面](4.png)
+![登录后有评论界面](http://p7jj1bbaq.bkt.clouddn.com/4.png)
 
 只是登录方式的不完备性其实还能都接受，然而这一切都是在我打开了代理的情况下呈现的，当我关闭代理后，我猛然发现--我的评论模块去哪儿了？ 再去一百度结果才发现，被赤裸裸的墙了。太可惜了，对于我这样的没有梯子不能访问评论的依赖我是不能忍得，忍痛割爱了~
 
@@ -45,7 +45,7 @@ categories:
 
 1.第一步当然是打开官网先注册了。[https://livere.com](https://livere.com),按照
 
-![注册填写](5.png)
+![注册填写](http://p7jj1bbaq.bkt.clouddn.com/5.png)
 
 邮箱注册，限制性可以说是基本没有了。貌似官网是需要科学上网的，昵称就是你回复的昵称啦。是可以随时修改的。
 
@@ -53,11 +53,11 @@ categories:
 
 好吧其实，我只会选City版（免费...），其他的也可以能享受更好的定制服务，土豪随意~
 
-![选择版本](6.png)
+![选择版本](http://p7jj1bbaq.bkt.clouddn.com/6.png)
 
 3.拿到你无与伦比、高贵奢华的uid
 
-![获取uid](3.png)
+![获取uid](http://p7jj1bbaq.bkt.clouddn.com/3.png)
 
 4.将你的uid正确的放到你的hexo项目下
 
